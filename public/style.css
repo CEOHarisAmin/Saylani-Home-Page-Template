@@ -1,0 +1,440 @@
+#facebook{
+            padding-left: 5rem;
+}
+.tiyw{
+    padding-left: 0.5rem;
+}
+img{
+    width: 1.4rem;
+    height: 1.4rem;
+    margin-top: 1%;
+}
+#firstparagraph{
+    color: whitesmoke;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    display: inline;
+    font-size: 1.3rem;
+    margin: 20px auto 20px auto;
+}
+form{
+    display: inline-block;
+    padding-bottom: 1rem;
+}
+.firstcontainer{
+    background-color: #116ec0;
+}
+.logo{
+    padding-left: 3rem;
+    width: 15rem;
+    height: 4rem;
+    margin-top: 1%;
+}
+
+li{
+    display: inline;
+    margin-right: 15px;
+    font-size: 1.2rem;  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#home{
+    background-color: #116ec0;
+    color: floralwhite;
+    text-decoration: floralwhite;
+    border:none;
+    border-radius: 8px;
+}
+
+.secondcontainer{
+    padding-left: 260px;
+    display: inline-block;
+    position: absolute;
+    top: 90px;
+}
+
+a:link{
+    color:black;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color:white;
+    background-color: #116ec0;
+    border: none;
+    border-radius: 8px;
+  }
+  #call14{  
+   
+    width: 95rem;
+    height: 30rem;
+    margin-top: 1%;
+  }
+ #secondparagraph{
+    background-color: #116ec0;
+    margin-left: 150px;
+    margin-right: 150px;
+    color: white;
+    padding: 0.4rem; 
+}
+ a{
+     color: black;
+     text-decoration: black;
+ }
+ #date{
+     color: greenyellow;
+ }
+
+strong{
+    color: #116ec0;
+}
+b{
+    color: green;
+}
+h1{
+    text-align: center;
+    margin-top: 3rem;
+}
+#secondlogo{
+    width: 2rem;
+    height: 2rem;
+}
+#logo{
+    text-align: center;
+    margin-top: -2em;
+}
+#thirdparagraph{
+    visibility: visible;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(139, 138, 138);
+    font-size: 1.2rem;
+    position: absolute;
+    margin-left: 14rem;
+    margin-right: 12rem;
+}
+
+#thirdcontainer{
+    background-color: #EEF3F7 ; 
+    height: 37rem;
+    padding-top: 0.2rem;
+    padding-bottom: 3rem;
+}
+
+ .images{
+    padding-left: 3rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-left: 14rem;
+    margin-top: 4rem;
+} 
+#fourthcontainer{
+    background-color: rgb(53, 53, 231);
+    height: 18rem; 
+}
+.list1{
+    font-size: 2.3rem;
+    color: whitesmoke;
+    font-weight: 500;
+    padding-left: 3rem;
+    margin-left: 8rem;
+}
+.list2{
+    font-size: 1rem;
+    color: whitesmoke;
+    font-weight: 300;
+    padding-left: 7.8rem;
+    margin-right: 1rem;  
+}
+.list3{
+    font-size: 1rem;
+    color: whitesmoke;
+    font-weight: 300;
+    padding-left: 3rem;
+    margin-right: 1rem; 
+}
+.list4{
+    font-size: 1rem;
+    color: whitesmoke;
+    font-weight: 300;
+    padding-left: 5.5rem;
+    margin-right: 1rem; 
+}
+.list5{
+    font-size: 1rem;
+    color: whitesmoke;
+    font-weight: 300;
+    padding-left: 8.5rem;
+    margin-right: 1rem; 
+}
+.nestedlist{
+    color: lime;
+}
+#fifthcontainer{
+    width: 380px;
+    height: 200px;
+    background-color:white;
+    box-shadow:grey;   
+    display: inline-block;
+    margin: 25px 0px 50px 150px;
+}
+#sixthcontainer{
+    width: 380px;
+    height: 200px;
+    background-color:white;
+    box-shadow:grey;  
+    display: inline-block;
+    margin: 25px 0px 50px 30px;
+}
+ #seventhcontainer{
+        width: 380px;
+        height: 200px;
+        background-color:white;
+        box-shadow:grey;  
+        display: inline-block;
+        margin: 25px 0px 25px 30px;
+} 
+#eigthcontainer{
+    width: 380px;
+    height: 200px;
+    background-color:white;
+    box-shadow:grey;  
+    display: inline-block;
+    margin: 25px 0px 50px 150px;
+}
+#ninthcontaniner{
+    width: 380px;
+    height: 200px;
+    background-color:white;
+    box-shadow:grey;  
+    display: inline-block;
+    margin: 25px 0px 50px 30px;
+}
+#tenthcontainer{
+    width: 380px;
+    height: 200px;
+    background-color:white;
+    box-shadow:grey;   
+    display: inline-block; 
+    margin: 25px 0px 25px 30px;
+} 
+
+.picture{
+    padding-left: 9.5rem;
+    width: 4.5rem;
+    height: 4.5rem;
+    margin-top: 10%;
+}
+.text{
+    font-size: 1.4rem;
+    color: #116ec0;
+    margin-top: 5%;
+}
+#maincontainer{
+    background-color: #EEF3F7;
+    <div class="shadow-lg p-3 mb-5 bg-white rounded">Larger shadow</div>
+}
+#upcomingprojects{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', Arial, sans-serif;
+    color:#116ec0;
+    margin-top: 4.5rem;
+    padding-left: 9.2rem;
+}
+#line{
+    color: green;
+    padding-left: 9rem;
+    margin-top: -1.7em;
+}
+#eleventhcontainer{
+    
+    width: 870px;
+    height: 300px;
+}
+#twelvecontainer{
+    width: 320px;
+    height: 75px;
+    background-color: #EEF3F7;
+    display: inline-block;
+    margin: 5px 0px 8px 145px;  
+}
+#thirteencontainer{
+    width: 320px;
+    height: 75px;
+    background-color: #EEF3F7;
+    display: inline-block;
+    margin: 5px 0px 8px 30px;
+}
+#fourteencontainer{
+    width: 320px;
+    height: 75px;
+    background-color: #EEF3F7;
+    display: inline-block;
+    margin: 5px 0px 8px 145px; 
+}
+#fifteencontainer{
+    width: 320px;
+    height: 75px;
+    background-color: #EEF3F7;
+    display: inline-block;
+    margin: 5px 0px 8px 30px;
+}
+
+.picture2{
+    padding-left: 2rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-top: 8%;
+
+}
+.text2{
+    font-size: 1rem;
+    color: #116ec0;
+    margin-top: -1.5em;
+}
+#upcomingevent{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', Arial, sans-serif;
+    color:#116ec0;
+    margin-top: 4.5rem;    
+}
+#sixteencontainer{
+    width: 350px;
+    height: 300px;
+    border: 2px;
+    position: relative;
+    top: -375px;
+    left: 920px;
+    
+}
+#events{
+    margin-top: -10px;
+   text-align: left;
+    text-align: justify;
+}
+.Eventlink1{
+    color: blue;
+}
+.Eventlink1:hover{
+    color: white;
+
+}
+.Eventlink2{
+    color: blue;
+    
+}
+.Eventlink2:hover{
+    color: white;
+} 
+#seventeencontainer{
+    border-top: 1px solid green;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    width: 250px;
+    height: 220px;
+    margin-top: -10px;
+} 
+#thirdlogo{
+    padding-left: 44rem;
+    margin-top: -30px;
+}
+
+#galleryimages{
+    width: 100%;
+}
+.pictures1{
+    padding-left:8rem;
+    min-width: 240px;
+    max-width: 450px;
+    min-height: 200px;
+    max-height: 400px;
+}
+.pictures2{
+    min-width: 240px;
+    max-width: 450px;
+    min-height: 200px;
+    max-height: 400px;
+}
+#eightteencontainer{
+    padding-bottom: 5rem;
+    position: relative;
+    bottom: 23rem;
+}
+.imagesicon{
+    width: 1.5rem;
+    height: 1.5rem;
+    padding: 0.4rem;
+
+}
+.part1{
+    font-family: Verdana, sans-serif;
+    font-variant: small-caps;
+    background-color: rgb(34, 34, 34);
+    margin-left: 120px;
+    margin-right: 1000px;
+    color: rgb(175, 175, 175);
+    padding: 0.4rem; 
+    padding-top: 5rem;
+}
+.part2{
+    font-family: Verdana, sans-serif;
+    font-variant: small-caps;
+    margin-left: 120px;
+    margin-right: 1000px;
+    color: rgb(175, 175, 175);
+    padding: 1.5rem; 
+    word-spacing: 0.2rem;
+    background-color: rgb(34, 34, 34);
+    display: inline-block;
+    margin: 5px 0px 8px 145px; 
+    padding-top: 1rem;
+
+}
+.part3{
+    letter-spacing: 0.3rem;
+    font-family: Verdana, sans-serif;
+    font-variant: small-caps;
+    background-color: rgb(34, 34, 34);
+    margin-left: 120px;
+    margin-right: 1000px;
+    color: rgb(175, 175, 175);
+    padding: 2rem 5rem 5rem 5rem;
+    display: inline-block;
+    margin: 5px 0px 8px 80px; 
+    position: relative;
+    bottom: 12rem;
+    font-weight: 600;
+}
+.part4{
+    font-family: Verdana, sans-serif;
+    font-variant: small-caps;
+    background-color: rgb(34, 34, 34);
+    margin-left: 120px;
+    margin-right: 1000px;
+    color: rgb(175, 175, 175);
+    padding: 1.5rem; 
+    width: 320px;
+    height: 75px;
+    display: inline-block;
+    margin: 5px 0px 8px 80px; 
+    position: relative;
+    bottom: 9.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+}
+#nineteencontainer{
+    min-height: 350px;
+    min-height: 350px;
+    background-color:rgb(34, 34, 34);
+    position: relative;
+    bottom: 18rem;
+}
+#lastcontainer{
+    background-color: #116ec0;
+    color: white;
+    padding:  0.2rem; 
+    position: relative;
+    bottom: 18rem;
+    padding-left: 6rem;
+}
+body{
+     min-width: 100%;
+     max-width: 100%;
+     min-height: 3550px;
+     max-height: 3630px;
+}
